@@ -1,6 +1,30 @@
-{
+[
   {
-    Address:"",
+    "Address": "0x1::aptos_coin::AptosCoin",
+    "Name": "Aptos Coin",
+    "Symbol": "APT",
+    "Decimals": 8,
+    "Img": "https://avatars.githubusercontent.com/u/99841612?s=48&v=4",
+    "StableCoin": false,
+    "CoreAsset": true,
+    "Telegram": "",
+    "Discord": "",
+    "Twitter": "",
+    "Facebook": "",
+    "Instagram": ""
   },
-  {}
-}
+  {
+    "Address": "0xf22bede237a07e121b56d91a491eb7bcdfd1f5907926a9e58338f964a01b17fa::asset::USDC",
+    "Name": "USD Coin",
+    "Symbol": "USDC (LayerZero)",
+    "Decimals": 6,
+    "StableCoin": true,
+    "CoreAsset": true,
+    "Img": "",
+    "Telegram": "",
+    "Discord": "",
+    "Twitter": "",
+    "Facebook": "",
+    "Instagram": ""
+  }
+]
