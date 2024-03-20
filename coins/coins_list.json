@@ -533,7 +533,7 @@
     },
     {
       "name": "Tortuga Staked Aptos",
-      "symbol": "TAPT",
+      "symbol": "tAPT",
       "decimals": 8,
       "description": "Tortuga Finance is a decentralized protocol. It cannot advise on token listings, advise on trading any tokens nor provide any financial advice. Tortuga Finance has no relation to Aptos Labs.Tortuga Finance is a decentralized protocol. It cannot advise on token listings, advise on trading any tokens nor provide any financial advice. Tortuga Finance has no relation to Aptos Labs.\n\ntAPT is the only Tortuga token. There are no other tokens.",
       "contract": "0x84d7aeef42d38a5ffc3ccef853e1b82e4958659d16a7de736a29c55fbbeb0114::staked_aptos_coin::StakedAptosCoin",
