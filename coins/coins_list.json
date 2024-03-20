@@ -89,7 +89,7 @@
       "linkedin": "https://www.linkedin.com/company/aptos-foundation/",
       "stable_coin": false,
       "core_asset": true,
-      "img": "",
+      "img": "https://raw.githubusercontent.com/coin-viewer/aptos-coins/main/images/aptosCoin.png",
       "facebook": "",
       "instagram": "",
       "github": "https://github.com/aptos-labs"
