@@ -19,6 +19,25 @@
 		"github": ""
 	},
 	{
+		"name": "CASH",
+		"symbol": "CASH",
+		"decimals": 6,
+		"description": "",
+		"contract": "0x61ed8b048636516b4eaf4c74250fa4f9440d9c3e163d96aeb863fe658a4bdc67::CASH::CASH",
+		"website": "https://app.zion.bet",
+		"twitter": "",
+		"telegram": "",
+		"discord": "",
+		"medium": "",
+		"linkedin": "",
+		"stable_coin": false,
+		"core_asset": false,
+		"img": "https://raw.githubusercontent.com/PanoraExchange/Aptos-Tokens/main/logos/CASH.png",
+		"facebook": "",
+		"instagram": "",
+		"github": ""
+	},
+	{
 		"name": "Donk",
 		"symbol": "DONK",
 		"decimals": 8,
